@@ -1,0 +1,17 @@
+{
+    "Numeros y Expresiones": {
+            "Reglas de exponentes": "Reglas de exponentes:!:!:Números y expresiones;!:/t Reglas de exponentes; /t$x^1 = x$:!;/t/t$x^0 = 1$:!;/t/t$x^{-1} = \\frac{1}{x}$:!;/t /t $\\frac{x^a}{x^b} = x^{a - b}$:!; /t /t $x^a \\cdot x^b = x^{a + b}$:!;/t /t $(x^a)^b = x^{a \\cdot b}$:!;/t /t $(x \\cdot y)^a = x^a y^a$:!;/t /t $\\left(\\frac{x}{y}\\right)^a = \\frac{x^a}{y^a}$",
+            "Factorización": "Factorizacion:!:!:Números y expresiones;!:/t Reglas de exponentes; /t$x^1 = x$:!;/t/t$x^0 = 1$:!;/t/t$x^{-1} = \\frac{1}{x}$:!;/t /t $\\frac{x^a}{x^b} = x^{a - b}$:!; /t /t $x^a \\cdot x^b = x^{a + b}$:!;/t /t $(x^a)^b = x^{a \\cdot b}$:!;/t /t $(x \\cdot y)^a = x^a y^a$:!;/t /t $\\left(\\frac{x}{y}\\right)^a = \\frac{x^a}{y^a}$"
+        },
+    "Ecuaciones cuadraticas": {
+        "Funciones cuadraticas": ""
+    },
+    "Figuras y sus medidas": {
+        "Trigonometria": "",
+        "Identidad pitagorica": "",
+        "Identidades par e impar": "",
+        "Suma y resta de angulos": "",
+        "Angulo medio": "",
+        "FÓRMULA QUE APARECE SIEMPRE EN LA MEXT": ""
+    }
+}

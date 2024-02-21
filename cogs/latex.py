@@ -9,7 +9,7 @@ import io
 logging.basicConfig(level=logging.WARNING)
 
 class Latex(commands.Cog):
-    def __init__(self, bot):
+    def __init__(self, bot):        
         self.bot = bot
 
     @commands.Cog.listener()
